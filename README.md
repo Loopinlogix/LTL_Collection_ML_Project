@@ -109,14 +109,7 @@ Use Guaranteed service for critical shipments
 Add buffer time for cross-border and weekend pickups
 Require appointments for better planning
 Monitor traffic index — Reroute when congestion > 5
-Future Improvements
-[ ] Integrate real GPS tracking data for live route optimization
-[ ] Add historical carrier performance scores
-[ ] Connect to live traffic APIs (Google Maps, Waze)
-[ ] Implement deep learning models (Neural Networks, LSTM for time patterns)
-[ ] Add real-time weather API integration
-[ ] Build a web dashboard with Flask/Streamlit
-[ ] Deploy as a REST API for TMS (Transportation Management System) integration
+
 License
 This project is for educational purposes. Feel free to use, modify, and distribute.
 Acknowledgments

@@ -118,4 +118,4 @@ Inspired by logistics optimization challenges in the transportation sector
 Built as a machine learning course project
 Contact
 For questions or collaboration, please open an issue on GitHub.
-Project Link: https://github.com/yourusername/ltl-pallet-collection-prediction
+Project Link: (https://github.com/Loopinlogix/LTL_Collection_ML_Project.git)

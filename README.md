@@ -99,16 +99,16 @@ Key Insights
 Top 5 Most Important Features
 num_stops (15.2%) — More stops = lower success
 distance_miles (13.8%) — Longer distances increase risk
-service_level_Expedited (9.5%) — Premium service improves odds
+service_level_Expedited (9.5%) - Premium service improves odds
 weather_Snow (8.7%) — Snow significantly reduces success
-route_type_Cross-Border (7.6%) — Customs delays hurt performance
+route_type_Cross-Border (7.6%) - Customs delays hurt performance
 Business Recommendations
-Minimize stops per route — Each extra stop reduces success odds
+Minimize stops per route - Each extra stop reduces success odds
 Avoid scheduling during snow/fog — Use weather forecasts
 Use Guaranteed service for critical shipments
 Add buffer time for cross-border and weekend pickups
 Require appointments for better planning
-Monitor traffic index — Reroute when congestion > 5
+Monitor traffic index - Reroute when congestion > 5
 
 License
 This project is for educational purposes. Feel free to use, modify, and distribute.
